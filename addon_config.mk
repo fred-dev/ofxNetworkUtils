@@ -5,4 +5,4 @@ meta:
 	ADDON_TAGS = "network" "utilities" "CIDR"
 	ADDON_URL = http://github.com/bakercp/ofxNetworkUtils
 common:
-	ADDON_DEPENDENCIES = ofxPoco
+	ADDON_DEPENDENCIES = ofxPocoHeaders

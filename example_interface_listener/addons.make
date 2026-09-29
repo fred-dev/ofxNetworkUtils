@@ -1,2 +1,2 @@
 ofxNetworkUtils
-ofxPoco
+ofxPocoHeaders
