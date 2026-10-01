@@ -1,6 +1,9 @@
 ofxNetworkUtils
 ===============
 
+> **About this fork:** fork of [bakercp/ofxNetworkUtils](https://github.com/bakercp/ofxNetworkUtils). This branch matches upstream. The `poco_headers_only` branch builds against [ofxPocoHeaders](https://github.com/fred-dev/ofxPocoHeaders) instead of the old ofxPoco addon.
+
+
 A collection of network utilities.
 
 ## Features
